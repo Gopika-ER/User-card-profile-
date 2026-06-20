@@ -35,22 +35,8 @@ function App() {
         "React",
         "Angular",
       ],
-    },{
-      name: "Robert",
-      city: "California",
-      description: "Full Stack web developer",
-      image: "https://randomuser.me/api/portraits/men/45.jpg",
-      online: true,
-      skills: [
-        "Vlogging",
-        "Web Development",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Angular",
-      ],
-    },{
+    },
+    {
       name: "Sarah",
       city: "Seattle",
       description: "UX/UI Designer",
@@ -65,7 +51,8 @@ function App() {
         "CSS",
         "Adobe XD",
       ],
-    },{
+    },
+    {
       name: "Michael",
       city: "Austin",
       description: "Backend Developer",
